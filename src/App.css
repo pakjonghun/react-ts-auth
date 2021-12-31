@@ -37,3 +37,16 @@ body {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
+
+.form-container {
+  width: 30%;
+  margin: auto;
+}
+
+.form-container input {
+  margin-bottom: 1rem;
+}
+
+.navbar {
+  margin-bottom: 1rem;
+}
